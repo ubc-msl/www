@@ -1,16 +1,13 @@
 # ----- IGNORE WEBALIZER -----
 webalizer/
-
 # ----- IGNORE DRUPAL -----
 # Ignore configuration files that may contain sensitive information.
 sites/*/*settings*.php
-
 # Ignore paths that contain generated content.
 cache/
 files/
 sites/*/files
 sites/*/private
-
 # Ignore default text files
 robots.txt
 /CHANGELOG.txt
@@ -23,7 +20,6 @@ robots.txt
 sites/all/README.txt
 sites/all/modules/README.txt
 sites/all/themes/README.txt
-
 # Ignore everything but the "sites" folder ( for non core developer )
 .htaccess
 web.config
@@ -39,22 +35,17 @@ xmlrpc.php
 /profiles
 /scripts
 /themes
-
 # ----- IGNORE OSX -----
 .DS_Store
 .AppleDouble
 .LSOverride
-
 # Icon must ends with two \r.
 Icon
-
 # Thumbnails
 ._*
-
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
-
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
