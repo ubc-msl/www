@@ -1,7 +1,4 @@
-
-Drupal 6.32-dev, xxxx-xx-xx (development release)
-----------------------
-
+test
 Drupal 6.31, 2014-04-16
 ----------------------
 - Fixed security issues (information disclosure). See SA-CORE-2014-002.
